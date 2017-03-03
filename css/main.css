@@ -1,0 +1,25 @@
+.one {
+	background-color: red;
+	height: 100px;
+}
+
+.two {
+	background-color: blue;
+	height: 100px;
+}
+
+.three {
+	background-color: orange;
+	height: 100px;
+}
+
+.four {
+	background-color: #FF7DD5;
+	height: 100px;
+}
+
+/*.nested {
+	height: 100px;
+	background-color: green;
+	margin: 0 10px;
+}*/
